@@ -1,89 +1,40 @@
-
-**Chapter 3**
-Performance Evaluation
-**3.1 Simulation Environment/ Simulation Procedure**
-All elements of the project were created within the Apache NetBeans IDE. The IDE
-was employed on a computer running the Windows 11 operating system, and the JDK
-was installed on the device to support the functionality of the IDE.
-3.2 Results Analysis/Testing
-There are multiple output screenshots illustrating different sections of the project:-
-Figure 3.1: Graph for representation path.
-8
-Figure 3.2: Firstly give user information
-9
-Figure 3.3: Main Interface.
-10
-Figure 3.4: Give donor information.
-Figure 3.5: Display given nformation.
-Figure 3.6: Output for Search Donor.
-11
-Figure 3.7: Search blood group and see all possible route.
-Figure 3.8: Find nearest donor, its sorted according distance.
-Figure 3.9: Update donor information.
-Figure 3.10: Delete donor information here.
-12
-Figure 3.11: Output of recycle bin.
-Figure 3.12: Restore the deleted information.
-Figure 3.13: Request for needed blood.
-Figure 3.14: Added requesting information.
-13
-Figure 3.15: Accepting request here.
-3.3 Results Overall Discussion
-The blood donating system project, implemented in Java with algorithmic support, pro-
-vides a robust platform for efficient donor registration, blood inventory management,
-and database integration. The system enhances user experience through a well-designed
-interface, ensuring secure and organized handling of donor information, contributing to
-the streamlined operation of blood banks and promoting a culture of voluntary blood
-donation.
-3.3.1 Complex Engineering Problem Discussion
-The current project displayed an impressive level of attention to detail and thorough
-discussion of challenging engineering issues. Every important factor was carefully re-
-searched and taken into account during the entire design process, from the very begin-
-ning to the very end. We took on a variety of tasks, such as developing a modern sleek
-effective demo program, and sustainable student project. The project demonstrates a
-strong and well-rounded approach by taking on these challenging engineering difficul-
-ties head-on, ensuring that all essential components for a successful travel management
-solution are provided here.
-14
-Chapter 4
-Conclusion
-4.1 Discussion
-The Blood Donating System project developed using Java Algorithm provides a solid
-foundation for managing blood donations, inventory, and transfusion processes. By
-addressing the mentioned challenges and implementing potential improvements, the
-system can further enhance its functionality, performance, and user satisfaction. This
-project shows great potential for future development. Adding donor information, edit-
-ing, and deleting donor information, will strengthen its comprehensive solution for
-donors by integrating additional services and personalized recommendations to ensure
-an improvement in the future.
-4.2 Limitations
-There are some limitations in project, such as -
-• The exact location of individuals cannot be ascertained.
-• Can’t share their health condition with a doctor.
-• An acceptor couldn’t’t give their requirements for finding a donor.
-• It didn’t give us a notification at an urgent moment.
-• Users couldn’t do any doctor consultancy..
-• Don’t have any Advice option on donating and accepting blood.
-• Don’t have Advanced UI/UX.
-• It has Platform compatibility.
-• A user can’t share their opinion by using this.
-15
-4.3 Scope of Future Work
-We will try to improve many features in our project in the near future, which are :
-• We will try to set an interface that will inform us the exact location of an acceptor
-and donor.
-• We will implement a chat application by which doctors and patients can commu-
-nicate with each other.
-• An acceptor would be able to give their requirements for finding a donor.
-• It will notify us in an emergency situation.
-• Try to enhance an option of check BMI and health condition.
-• Try to implement and advice option for both doctor and patient.
-• Try to use Advanced UI/UX.
-• User will be able to share their opinion by using this program.
-16
-References
-• Google : https://google.com
-• ChatGPT: https://chat.openai.com
-• Tutorials Point : https://www.tutorialspoint.com/index.html
-• JavaTPoint: https://www.javatpoint.com/
-• geeks for geeks: https://wwwgeekforgeekscom/
+Introduction
+ 1.1 Overview
+ Theblooddonating systemwasconstructed for finding blood donors easily. This project
+ provides search facilities for blood groups and finds their address and contact number.
+ Its also provide multiple route from patient to donors also minimum distance from donor
+ to patient. It can be used to add new donor information. If any patient will need any
+ blood group then they will be finding a lot of blood donors by using this system whose
+ blood groups are the same as the patient. And also patients can request blood that they
+ need and the first patient will be given first as soon as possible.The recipient can see
+ how far away the donor is. In this project, we tried to implement counting the distance
+ from the source.we tried to make such an interface that It works like a family doctor.
+ 1.2 Motivation
+ There can be several motivations for creating this project. Some of them are:
+ • The blood donating system project simplifies the blood finding and donating.
+ • System for individual donors and acceptors.
+ • Here can be added multiple donor information like blood group, contact informa
+tion, health condition, etc.
+ • Users can find their needed donor as their recommendation.
+ • If any donor put his wrong information and need to change contact number, ad
+dress,And any other else.
+ • Thentheycanupdateordelete their information and authority can restore the data
+ from trash file.
+ • Patients can see who is near by him with their distance.
+ • If anyone want they can count short path form the source in this system.
+ 2
+• The aim of this project is to save the lives by provides blood to those has need to
+ blood in emergency situation.
+ • Create an user friendly interface for both the donor and patients.
+ 1.3 Problem Definition
+ 1.3.1 Problem Statement
+ The problem of the ’ blood donating system’ project solves is the lack of a user friendly
+ managementsystemthatsimplifiesInefficient Inventory Management, Inadequate Donor
+ Management,Ineffective Donor-Recipient Matching, Reporting and Analytical Chal
+lenges, and Security and Privacy Risks in this system. Users face difficulties in dynami
+cally managing custom locations.Real-time updates and the absence of a comprehensive
+ shortest path calculation further impede the system’s effectiveness.also,there is no con
+tacting options between donor and acceptor and no advise option for both. The problem
+ statement summarises the requirement for an enhanced user interface to address these
+ issues and raise the system dispatch operations’ general effectiveness and responsive
+ness.
